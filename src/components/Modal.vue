@@ -116,6 +116,7 @@ export default {
 }
 .head {
     padding: 20px 24px;
+    cursor: grab;
 }
 .comment {
     background-color: #292A2B;
